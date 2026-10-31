@@ -68,11 +68,11 @@ Tüm mod dosyaları doğrudan resmi **Modrinth CDN** ve **CurseForge API** altya
 
 | Dosya | Boyut | Açıklama | SHA-256 Sağlama Toplamı |
 |---|---|---|---|
-| **`VANTACOG-Prism-Distribution.zip`** | `~0.45 MB` | Prism Launcher içe aktarma arşivi | `693b8415a0c52f74168ef89964e7ac0dbecd7af4969a978d7f116d8339877ad6` |
-| **`packwiz-installer-bootstrap.jar`** | `98 KB` | Resmi Packwiz otomatik yükleyicisi | `a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c` |
+| **`VANTACOG-Prism-Distribution.zip`** | `436.7 KB` | Prism Launcher temiz kurulum paketi (v1.0.1) | `8c074dc2e7285337687d378a645455bba56625f7adcebae7f7f5fc9a3014db63` |
+| **`packwiz-installer-bootstrap.jar`** | `98 KB` | Resmi Packwiz otomatik yükleyicisi (comp500 / MIT) | `a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c` |
 
-🔍 **VirusTotal Taraması:**  
-[VirusTotal Analiz Sayfası](https://www.virustotal.com/gui/file/693b8415a0c52f74168ef89964e7ac0dbecd7af4969a978d7f116d8339877ad6)
+🔍 **VirusTotal Doğrulama Bağlantısı:**  
+[VirusTotal SHA-256 Analiz Sayfası](https://www.virustotal.com/gui/file/8c074dc2e7285337687d378a645455bba56625f7adcebae7f7f5fc9a3014db63)
 
 ---
 
@@ -88,6 +88,49 @@ Packwiz doğrudan raw bağlantısı:
 ```text
 https://raw.githubusercontent.com/JustCyrr/VANTACOG/main/pack.toml
 ```
+
+---
+
+## 🎖️ 6. Teşekkürler ve Eser Sahipleri (Credits)
+
+VANTACOG projesi, Minecraft modlama topluluğunun eşsiz yaratıcılığı ve açık kaynak katkıları sayesinde hayata geçmiştir. Tüm mod geliştiricilerine, topluluk katkıcılarına ve sanatçılara içtenlikle teşekkür ederiz.
+
+- Ayrıntılı geliştirici ve ekip listesi için: [CREDITS.md](CREDITS.md)
+- Başlıca içerik yaratıcıları:
+  - **The Create Team (simibubi ve katkıcılar):** Mekanik Create motoru ve otomasyon ekosistemi.
+  - **Embeddedt:** ModernFix optimizasyon altyapısı.
+  - **CaffeineMC / JellySquid / IMS:** Sodium ve Iris grafik teknolojisi.
+  - **Technici4n & shartte:** Applied Energistics 2 dijital lojistik motoru.
+  - **Henkelmax:** Simple Voice Chat ve Corpse çok oyunculu entegrasyonları.
+
+---
+
+## 📜 7. Üçüncü Taraf Lisansları & Dağıtım Şartları
+
+Bu pakette yer alan 218 modun her biri kendi bağımsız lisans şartlarına tabidir:
+- **Telif Haklarına Saygı:** Depomuzda All Rights Reserved veya kısıtlayıcı lisanslara sahip hiçbir üçüncü taraf ikili `.jar` dosyası barındırılmamaktadır. Modlar Packwiz aracılığıyla istemci tarafından resmi Modrinth/CurseForge CDN sunucularından indirilir.
+- **218 Modun Tam Lisans Envanteri:** Her bir modun geliştiricisi, lisans türü, platform bağlantısı ve kaynak kodu için [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) belgesini inceleyiniz.
+
+---
+
+## ⚖️ 8. Marka ve Telif Hakkı Feragatnamesi (Legal Disclaimer)
+
+- **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
+- Minecraft, Mojang Synergies AB / Microsoft şirketinin ticari markasıdır.
+- NeoForge, NeoForged projesinin markasıdır.
+- CurseForge, Overwolf şirketinin markasıdır.
+- Modrinth, Rinth, Inc. şirketinin markasıdır.
+- Prism Launcher, Prism Launcher Contributors topluluğunun markası/projesidir.
+- Bu projede bahsi geçen tüm ticari markalar ve fikri mülkiyet hakları ilgili eser ve hak sahiplerine aittir. VANTACOG projesi bu kurum veya kuruluşlarla doğrudan bir ortaklığa veya onaya sahip değildir.
+
+---
+
+## 📬 9. İletişim ve Telif Bildirimi (Takedown & Support)
+
+Eğer bu modpack içerisinde yer alan herhangi bir modun telif hakkı sahibiyseniz ve modunuzun Packwiz metadata listesinde yer almasını istemiyorsanız, lütfen Discord üzerinden veya GitHub Issues açarak bizimle iletişime geçiniz. Talebiniz doğrultusunda mod derhal metadata fihristinden kaldırılacaktır.
+
+- **Discord Topluluğu:** [https://discord.gg/pPZUpZY2AW](https://discord.gg/pPZUpZY2AW)
+- **GitHub Issues:** [https://github.com/JustCyrr/VANTACOG/issues](https://github.com/JustCyrr/VANTACOG/issues)
 
 ---
 
