@@ -1,0 +1,20 @@
+filename = 'walkietalkie-1.4.0.jar'
+name = 'Walkie-Talkie Plus'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Walkie-Talkie v1.4.0 NeoForge'
+
+[download]
+hash = 'e2b69a5ed5d4f3e2d51778b73cbfd5249cc1dc64'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 8006069
+project-id = 1520255
+
+[[x-prismlauncher-dependencies]]
+addonId = '416089'
+type = 'REQUIRED'

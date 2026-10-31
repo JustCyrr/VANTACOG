@@ -1,0 +1,18 @@
+filename = 'createmissiles-1.0.3+neoforge-1.21.1.jar'
+name = 'Create Missiles'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.3+1.21.1+6.0.10-neoforge'
+
+[download]
+hash = 'afb75283adaf801472de1f2dcdb1296d17086f448a4b61606cad5e88194d664cc50610c3cd849183a4e06da9d95a37341a5b2a26971c6a00206084f48967982f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8dmJJTC3/versions/E879erNz/createmissiles-1.0.3%2Bneoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '8dmJJTC3'
+version = 'E879erNz'

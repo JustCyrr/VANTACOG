@@ -1,0 +1,18 @@
+filename = 'open-parties-and-claims-neoforge-1.21.1-0.33.0.jar'
+name = 'Open Parties and Claims'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'neoforge-1.21.1-0.33.0'
+
+[download]
+hash = '646fd9796ef2dfd1132e22aacf1a417639233d90fb7eb862a718badfed955d54714c88327b7ddc651f98cd5b7d2a80e8c91233d2232680d4998fdd10ef392ffb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gF3BGWvG/versions/yWmXD7GW/open-parties-and-claims-neoforge-1.21.1-0.33.0.jar'
+
+[update.modrinth]
+mod-id = 'gF3BGWvG'
+version = 'yWmXD7GW'
