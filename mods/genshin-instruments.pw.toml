@@ -1,0 +1,18 @@
+filename = 'genshinstrument-neoforge-1.21-1.21.1-5.1.jar'
+name = 'Genshin Instruments'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.21+1.21.1-5.1'
+
+[download]
+hash = 'd386d401d9683bef00cc383c677d1c6391b2dc34fed13650e0525b4f81dfefe1288d34e56b90d393f74195ba1a07621d39c3b9effd43cc3b00aeeb1586b25f9e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UUD6Qkij/versions/SHCmhQf1/genshinstrument-neoforge-1.21-1.21.1-5.1.jar'
+
+[update.modrinth]
+mod-id = 'UUD6Qkij'
+version = 'SHCmhQf1'

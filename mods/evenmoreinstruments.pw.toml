@@ -1,0 +1,25 @@
+filename = 'evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar'
+name = 'Even More Instruments!'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.21+1.21.1-6.1.4'
+
+[download]
+hash = '7c2b5fba1a90bc356929643b8b6139347d376198f47cdd0bc3b07b682c9c3c3f46e3306fc876d6c286eb8eadfb9abbd7aa18716421d69d26aa82e201266eb876'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Mcs3cqJ1/versions/Wt97BeYw/evenmoreinstruments-neoforge-1.21-1.21.1-6.1.4.jar'
+
+[update.modrinth]
+mod-id = 'Mcs3cqJ1'
+version = 'Wt97BeYw'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'UUD6Qkij'
+type = 'REQUIRED'

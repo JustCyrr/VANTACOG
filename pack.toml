@@ -1,0 +1,14 @@
+name = "VANTACOG"
+author = "VANTACOG Team"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+description = "VANTACOG | A Steampunk Create Universe"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1a980e4c6352300f66f58fc5053afe6938c769d6c6b512af2d7a8c31113b4c5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
