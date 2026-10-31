@@ -86,7 +86,7 @@ Bu depo aynı zamanda modpack'in Packwiz merkezi metadata kaynağıdır:
 
 Packwiz doğrudan raw bağlantısı:
 ```text
-https://raw.githubusercontent.com/<USER>/VANTACOG/main/pack.toml
+https://raw.githubusercontent.com/JustCyrr/VANTACOG/main/pack.toml
 ```
 
 ---
