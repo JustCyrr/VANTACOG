@@ -71,8 +71,21 @@ Tüm mod dosyaları doğrudan resmi **Modrinth CDN** ve **CurseForge API** altya
 | **`VANTACOG-Prism-Distribution.zip`** | `436.7 KB` | Prism Launcher temiz kurulum paketi (v1.0.1) | `8c074dc2e7285337687d378a645455bba56625f7adcebae7f7f5fc9a3014db63` |
 | **`packwiz-installer-bootstrap.jar`** | `98 KB` | Resmi Packwiz otomatik yükleyicisi (comp500 / MIT) | `a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c` |
 
-🔍 **VirusTotal Doğrulama Bağlantısı:**  
-[VirusTotal SHA-256 Analiz Sayfası](https://www.virustotal.com/gui/file/8c074dc2e7285337687d378a645455bba56625f7adcebae7f7f5fc9a3014db63)
+### 🛡️ Security Scan
+VANTACOG v1.0.1 distribution archive was analyzed by VirusTotal.
+- **Malicious detections:** 0
+- **Suspicious detections:** 0
+- **Engines reporting Undetected:** 65
+- **Unsupported engines:** 9
+- **Failed engines:** 1
+- **SHA-256:** `8c074dc2e7285337687d378a645455bba56625f7adcebae7f7f5fc9a3014db63`
+
+The GitHub Release archive, local distribution archive, and VirusTotal report share the same SHA-256 hash.
+
+🔗 **[View VirusTotal Analysis](https://www.virustotal.com/gui/file/8c074dc2e7285337687d378a645455bba56625f7adcebae7f7f5fc9a3014db63)**
+
+> [!NOTE]
+> A clean VirusTotal result does not guarantee that software is completely free of security risks. This scan applies to the distribution ZIP and does not independently certify every mod downloaded during installation.
 
 ---
 
